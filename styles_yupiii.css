@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #cfffca; /* Verde pastel */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .message-box {
+    background-color: #a5eea0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #0a0a0a;
+  }
+  
+  h1 {
+    color: #42ab49; /* Verde pastel */
+  }
+  
+  h2 {
+    color: #5dc460; /* Verde pastel */
+  }
+  
